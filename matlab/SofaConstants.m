@@ -1,0 +1,2 @@
+function const = SofaConstants()
+const = {}

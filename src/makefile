@@ -65,7 +65,7 @@ SOFA_INC_DIR = $(INSTALL_DIR)/include/
 
 CCOMPC = gcc
 CFLAGF = -c -pedantic -Wall -W -O
-CFLAGX = -pedantic -Wall -W -O
+CFLAGX = -pedantic -Wall -W -O -DDLL_EXPORT
 
 #----YOU SHOULDN'T HAVE TO MODIFY ANYTHING BELOW THIS LINE---------
 
